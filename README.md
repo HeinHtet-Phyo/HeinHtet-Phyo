@@ -1,135 +1,120 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,001100,003300&height=200&section=header&text=HEIN%20HTET%20PHYO&fontSize=48&fontColor=00ff41&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Software%20Engineer&descAlignY=58&descColor=00cc33&descSize=16"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%24+whoami+--+Hein+Htet+Phyo;%24+status+--+Open+to+Graduate+Roles+in+London;%24+degree+--+BSc+Data+Science+%26+AI+%7C+First+Class+Honours;%24+mission+--+turning+data+into+impact+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/_%20PORTFOLIO-heinhtetphyo.com-00ff41?style=for-the-badge&labelColor=001100&color=001100&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwZmY0MSIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNS0xMC01LTEwIDV6TTIgMTJsMTAgNSAxMC01LTEwLTUtMTAgNXoiLz48L3N2Zz4=)](https://heinhtetphyo.com)
-[![LinkedIn](https://img.shields.io/badge/_%20LINKEDIN-CONNECT-00ff41?style=for-the-badge&labelColor=001100&color=001100&logo=linkedin)](https://linkedin.com/in/hein-htet-phyo)
-[![Email](https://img.shields.io/badge/_%20EMAIL-CONTACT-00ff41?style=for-the-badge&labelColor=001100&color=001100&logo=gmail)](mailto:heinhtetphyo56@gmail.com)
-[![GitHub](https://img.shields.io/badge/_%20GITHUB-FOLLOW-00ff41?style=for-the-badge&labelColor=001100&color=001100&logo=github)](https://github.com/HeinHtet-Phyo)
-
-![Profile Views](https://komarev.com/ghpvc/?username=HeinHtet-Phyo&color=00ff41&style=for-the-badge&label=VISITORS&labelColor=001100)
-
-</div>
-
----
-
-```bash
-╔════════════════════════════════════════════════════════════════╗
-║  $ cat /etc/profile.d/hein.conf                               ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║  NAME        →  Hein Htet Phyo                                ║
-║  DEGREE      →  BSc Data Science & AI [FIRST CLASS HONOURS]   ║
-║  UNIVERSITY  →  University of the West of England, Bristol    ║
-║  LOCATION    →  London, UK 🇬🇧                                 ║
-║  STATUS      →  [ACTIVE] — Seeking Graduate Roles             ║
-║  TARGETS     →  Data Scientist · ML Engineer · AI Engineer    ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-```bash
-$ ./skills --list --verbose
-
-[ML/AI]       Python · Scikit-Learn · XGBoost · LightGBM · Pandas · NumPy
-[FRONTEND]    React · TypeScript · Three.js · TailwindCSS · Vite · R3F
-[DATA]        SQL · Power BI · SAP HANA · Excel · GeoPandas
-[DEVOPS]      Git · GitHub · Vercel · Node.js · REST APIs
-[SPECIALS]    3D Web · Bloom Post-Processing · GSAP · Framer Motion
-```
-
----
-
-```bash
-$ ls -la ~/projects/
-
-drwxr-xr-x  NEURAL_GALAXY/      [LIVE] heinhtetphyo.com — 3D AI Brain Portfolio
-```
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│ > ./run --project MOODTUNES_AI                                      │
-│   ├── DESC    Spotify mood-based music recommendation engine        │
-│   ├── STACK   LightGBM · Spotify API · Python                      │
-│   └── RESULT  F1: 0.5652 · 114,000+ tracks analysed               │
-├─────────────────────────────────────────────────────────────────────┤
-│ > ./run --project IT_CAREER_PLANNER                                 │
-│   ├── DESC    ML-powered career path prediction system              │
-│   ├── STACK   XGBoost · Scikit-learn · Feature Engineering         │
-│   └── RESULT  99.75% Accuracy ██████████ [BENCHMARK MET]           │
-├─────────────────────────────────────────────────────────────────────┤
-│ > ./run --project CITYPULSE                                         │
-│   ├── DESC    Urban analytics & data visualisation dashboard        │
-│   ├── STACK   Python · GeoPandas · Plotly                          │
-│   └── RESULT  Real-time urban insights engine                       │
-├─────────────────────────────────────────────────────────────────────┤
-│ > ./run --project PREVENTPATH                                       │
-│   ├── DESC    AI-driven preventive health risk prediction           │
-│   ├── STACK   Machine Learning · Health Data · Python               │
-│   └── RESULT  Early detection pipeline                              │
-├─────────────────────────────────────────────────────────────────────┤
-│ > ./run --project NEURAL_BLACKSITE                                  │
-│   └── ERROR   [ACCESS DENIED] — CLEARANCE LEVEL INSUFFICIENT       │
-├─────────────────────────────────────────────────────────────────────┤
-│ > ./run --project PROJECT_OMEGA                                     │
-│   └── ERROR   [ACCESS DENIED] — CLEARANCE LEVEL INSUFFICIENT       │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-```bash
-$ cat ~/experience.log
-
-[2024] KBZ Pay — Data & Software Engineering Intern
-       ├── Optimised QR payment APIs → 5,000,000+ active users
-       ├── Reduced API response times via query optimisation
-       └── Stack: Python · SQL · REST APIs · Data Analysis
-
-[2023] City Mart Holding — Data Analytics Intern
-       ├── Built Power BI dashboards → 200+ retail branches
-       ├── Integrated SAP HANA for real-time executive reporting
-       └── Stack: Power BI · SAP HANA · SQL · Excel
-```
-
----
-
-```bash
-$ neofetch --github-stats
-```
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=HeinHtet-Phyo&show_icons=true&hide_border=true&bg_color=001100&title_color=00ff41&icon_color=00cc33&text_color=00ff41&count_private=true&ring_color=00ff41"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeinHtet-Phyo&layout=compact&hide_border=true&bg_color=001100&title_color=00ff41&text_color=00ff41"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HeinHtet-Phyo&hide_border=true&background=001100&stroke=00ff41&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00cc33&dates=006600&currStreakNum=00ff41&sideNums=00ff41"/>
-
-</div>
-
----
-
-```bash
-$ ping heinhtetphyo.com
-
-PING heinhtetphyo.com — Neural Galaxy Portfolio
-> 3D AI Brain with interactive project neurons
-> Built with React · Three.js · TypeScript · Vite
-> Deployed on Vercel
-
-Reply from heinhtetphyo.com: STATUS=ONLINE ✓
-```
-
-<div align="center">
-
-[![VISIT PORTFOLIO](https://img.shields.io/badge/▶_BOOT_NEURAL_GALAXY-heinhtetphyo.com-00ff41?style=for-the-badge&labelColor=001100&color=001100)](https://heinhtetphyo.com)
-
-</div>
+<!--STARS BG-->
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=6&section=header&text=&fontSize=0"/>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,003300,001100&height=120&section=footer&animation=twinkling"/>
+<!-- ANIMATED STAR FIELD via SVG -->
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="120" viewBox="0 0 800 120">
+  <rect width="800" height="120" fill="#000000"/>
+  <!-- dots/stars -->
+  <circle cx="42" cy="15" r="1" fill="white" opacity="0.8"/>
+  <circle cx="120" cy="55" r="0.8" fill="white" opacity="0.6"/>
+  <circle cx="200" cy="20" r="1.2" fill="white" opacity="0.9"/>
+  <circle cx="280" cy="70" r="0.7" fill="white" opacity="0.5"/>
+  <circle cx="350" cy="10" r="1" fill="white" opacity="0.8"/>
+  <circle cx="430" cy="90" r="0.9" fill="white" opacity="0.7"/>
+  <circle cx="510" cy="35" r="1.1" fill="white" opacity="0.9"/>
+  <circle cx="590" cy="60" r="0.8" fill="white" opacity="0.6"/>
+  <circle cx="670" cy="18" r="1" fill="white" opacity="0.8"/>
+  <circle cx="750" cy="80" r="0.7" fill="white" opacity="0.5"/>
+  <circle cx="80" cy="95" r="0.9" fill="white" opacity="0.6"/>
+  <circle cx="160" cy="40" r="1" fill="white" opacity="0.7"/>
+  <circle cx="240" cy="100" r="0.8" fill="white" opacity="0.5"/>
+  <circle cx="320" cy="45" r="1.2" fill="white" opacity="0.8"/>
+  <circle cx="400" cy="110" r="0.7" fill="white" opacity="0.6"/>
+  <circle cx="480" cy="25" r="1" fill="white" opacity="0.9"/>
+  <circle cx="560" cy="85" r="0.9" fill="white" opacity="0.7"/>
+  <circle cx="640" cy="50" r="1.1" fill="white" opacity="0.8"/>
+  <circle cx="720" cy="105" r="0.8" fill="white" opacity="0.5"/>
+  <circle cx="775" cy="30" r="1" fill="white" opacity="0.7"/>
+  <!-- Name text -->
+  <text x="400" y="68" text-anchor="middle" fill="white" font-family="Courier New, monospace" font-size="32" font-weight="bold" letter-spacing="8">HEIN HTET PHYO</text>
+  <text x="400" y="90" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Courier New, monospace" font-size="12" letter-spacing="4">Data Scientist  ·  ML Engineer  ·  AI Engineer</text>
+</svg>
+
+<br/>
+
+<!-- WELCOME -->
+```
+> welcome to my corner of the internet ·:·
+```
+
+<br/>
+
+<!-- ABOUT -->
+<table>
+<tr>
+<td align="left">
+
+```
+whoami
+──────────────────────────────────────────────
+  BSc Data Science & AI — First Class Honours
+  University of the West of England, Bristol
+  Based in London, UK
+  Status: [ACTIVE] — Seeking Graduate Roles
+──────────────────────────────────────────────
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ABOUT PARA -->
+
+I'm a data scientist and AI engineer who loves turning complex data into things that actually matter. I build intelligent systems — from machine learning models to interactive 3D web experiences — always pushing for clean, purposeful work that sits at the intersection of data, design, and intelligence.
+
+<br/>
+
+<!-- WHAT I'M BUILDING -->
+
+```
+what i'm building
+─────────────────────────────────────────────────────────────────
+  ◦  ML-powered recommendation & prediction systems
+  ◦  AI-driven data pipelines & analytics tools
+  ◦  3D interactive portfolio — heinhtetphyo.com
+  ◦  Supply chain optimisation models (SARIMA + Gurobi ILP)
+  ◦  Exploring: LLMs · computer vision · AI agents
+─────────────────────────────────────────────────────────────────
+```
+
+<br/>
+
+<!-- SKILLS -->
+
+```
+skills --list
+─────────────────────────────────────────────────────────────────
+  [ML / AI]     Python · Scikit-Learn · XGBoost · LightGBM
+                Pandas · NumPy · SARIMA · Gurobi · Spotify API
+
+  [FRONTEND]    React · TypeScript · Next.js · Three.js
+                TailwindCSS · GSAP · Framer Motion · R3F
+
+  [DATA]        SQL · Power BI · SAP HANA · Excel · GeoPandas
+                Plotly · Tableau
+
+  [DEVOPS]      Git · GitHub · Vercel · Node.js · REST APIs
+─────────────────────────────────────────────────────────────────
+```
+
+<br/>
+
+<!-- LINKS -->
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-heinhtetphyo.com-ffffff?style=for-the-badge&labelColor=000000&color=ffffff)](https://heinhtetphyo.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-ffffff?style=for-the-badge&labelColor=000000&color=ffffff)](https://linkedin.com/in/hein-htet-phyo)
+[![Email](https://img.shields.io/badge/EMAIL-contact-ffffff?style=for-the-badge&labelColor=000000&color=ffffff)](mailto:heinhtetphyo56@gmail.com)
+
+<br/>
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1&section=footer&text=&fontSize=0"/>
+
+<sub>· · · somewhere in the universe · · ·</sub>
+
+</div>
