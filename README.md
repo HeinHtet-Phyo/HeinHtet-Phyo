@@ -1,145 +1,135 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,000000,111111&height=200&section=header&text=HEIN%20HTET%20PHYO&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Software%20Engineer&descAlignY=58&descColor=aaaaaa&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,001100,003300&height=200&section=header&text=HEIN%20HTET%20PHYO&fontSize=48&fontColor=00ff41&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Software%20Engineer&descAlignY=58&descColor=00cc33&descSize=16"/>
 
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-heinhtetphyo.com-ffffff?style=for-the-badge&labelColor=000000&color=ffffff)](https://heinhtetphyo.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-ffffff?style=for-the-badge&logo=linkedin&labelColor=000000&color=222222)](https://linkedin.com/in/hein-htet-phyo)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-ffffff?style=for-the-badge&logo=gmail&labelColor=000000&color=222222)](mailto:heinhtetphyo56@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-ffffff?style=for-the-badge&logo=github&labelColor=000000&color=222222)](https://github.com/HeinHtet-Phyo)
-
-![Profile Views](https://komarev.com/ghpvc/?username=HeinHtet-Phyo&color=ffffff&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000)
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%24+whoami+--+Hein+Htet+Phyo;%24+status+--+Open+to+Graduate+Roles+in+London;%24+degree+--+BSc+Data+Science+%26+AI+%7C+First+Class+Honours;%24+mission+--+turning+data+into+impact+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
----
+[![Portfolio](https://img.shields.io/badge/_%20PORTFOLIO-heinhtetphyo.com-00ff41?style=for-the-badge&labelColor=001100&color=001100&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwZmY0MSIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNS0xMC01LTEwIDV6TTIgMTJsMTAgNSAxMC01LTEwLTUtMTAgNXoiLz48L3N2Zz4=)](https://heinhtetphyo.com)
+[![LinkedIn](https://img.shields.io/badge/_%20LINKEDIN-CONNECT-00ff41?style=for-the-badge&labelColor=001100&color=001100&logo=linkedin)](https://linkedin.com/in/hein-htet-phyo)
+[![Email](https://img.shields.io/badge/_%20EMAIL-CONTACT-00ff41?style=for-the-badge&labelColor=001100&color=001100&logo=gmail)](mailto:heinhtetphyo56@gmail.com)
+[![GitHub](https://img.shields.io/badge/_%20GITHUB-FOLLOW-00ff41?style=for-the-badge&labelColor=001100&color=001100&logo=github)](https://github.com/HeinHtet-Phyo)
 
-## ░░ ABOUT ME
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  NAME        →  Hein Htet Phyo                               ║
-║  DEGREE      →  BSc Data Science & AI — First Class Honours  ║
-║  UNIVERSITY  →  University of the West of England, Bristol   ║
-║  LOCATION    →  London, UK                                   ║
-║  STATUS      →  Open to Graduate Roles                       ║
-║  SEEKING     →  Data Scientist · ML Engineer · AI Engineer   ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-> Building intelligent systems that turn data into impact.
-> Currently seeking graduate roles in Data Science, ML Engineering & AI Software Engineering across the UK.
-
----
-
-## ░░ TECH STACK
-
-<div align="center">
-
-**— ML & Data Science —**
-
-![Python](https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=000000)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ffffff?style=flat-square&logo=scikit-learn&logoColor=000000)
-![XGBoost](https://img.shields.io/badge/XGBoost-ffffff?style=flat-square&logoColor=000000)
-![LightGBM](https://img.shields.io/badge/LightGBM-ffffff?style=flat-square&logoColor=000000)
-![Pandas](https://img.shields.io/badge/Pandas-ffffff?style=flat-square&logo=pandas&logoColor=000000)
-![NumPy](https://img.shields.io/badge/NumPy-ffffff?style=flat-square&logo=numpy&logoColor=000000)
-
-**— Frontend & 3D —**
-
-![React](https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=flat-square&logo=typescript&logoColor=000000)
-![Three.js](https://img.shields.io/badge/Three.js-ffffff?style=flat-square&logo=three.js&logoColor=000000)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-ffffff?style=flat-square&logo=tailwind-css&logoColor=000000)
-![Vite](https://img.shields.io/badge/Vite-ffffff?style=flat-square&logo=vite&logoColor=000000)
-
-**— Data & Tools —**
-
-![SQL](https://img.shields.io/badge/SQL-ffffff?style=flat-square&logo=mysql&logoColor=000000)
-![Power BI](https://img.shields.io/badge/PowerBI-ffffff?style=flat-square&logo=powerbi&logoColor=000000)
-![SAP HANA](https://img.shields.io/badge/SAP_HANA-ffffff?style=flat-square&logo=sap&logoColor=000000)
-![Git](https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=git&logoColor=000000)
-![Vercel](https://img.shields.io/badge/Vercel-ffffff?style=flat-square&logo=vercel&logoColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=HeinHtet-Phyo&color=00ff41&style=for-the-badge&label=VISITORS&labelColor=001100)
 
 </div>
 
 ---
 
-## ░░ FEATURED PROJECTS
+```bash
+╔════════════════════════════════════════════════════════════════╗
+║  $ cat /etc/profile.d/hein.conf                               ║
+╠════════════════════════════════════════════════════════════════╣
+║                                                                ║
+║  NAME        →  Hein Htet Phyo                                ║
+║  DEGREE      →  BSc Data Science & AI [FIRST CLASS HONOURS]   ║
+║  UNIVERSITY  →  University of the West of England, Bristol    ║
+║  LOCATION    →  London, UK 🇬🇧                                 ║
+║  STATUS      →  [ACTIVE] — Seeking Graduate Roles             ║
+║  TARGETS     →  Data Scientist · ML Engineer · AI Engineer    ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+```bash
+$ ./skills --list --verbose
+
+[ML/AI]       Python · Scikit-Learn · XGBoost · LightGBM · Pandas · NumPy
+[FRONTEND]    React · TypeScript · Three.js · TailwindCSS · Vite · R3F
+[DATA]        SQL · Power BI · SAP HANA · Excel · GeoPandas
+[DEVOPS]      Git · GitHub · Vercel · Node.js · REST APIs
+[SPECIALS]    3D Web · Bloom Post-Processing · GSAP · Framer Motion
+```
+
+---
+
+```bash
+$ ls -la ~/projects/
+
+drwxr-xr-x  NEURAL_GALAXY/      [LIVE] heinhtetphyo.com — 3D AI Brain Portfolio
+```
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│  🎵  MOODTUNES AI                                                   │
-│      Spotify mood-based music recommendation engine                 │
-│      LightGBM · Spotify API  ·  F1: 0.5652  ·  114,000+ tracks    │
+│ > ./run --project MOODTUNES_AI                                      │
+│   ├── DESC    Spotify mood-based music recommendation engine        │
+│   ├── STACK   LightGBM · Spotify API · Python                      │
+│   └── RESULT  F1: 0.5652 · 114,000+ tracks analysed               │
 ├─────────────────────────────────────────────────────────────────────┤
-│  💼  IT CAREER PLANNER                                              │
-│      ML-powered career path prediction system                       │
-│      XGBoost · Scikit-learn  ·  99.75% Accuracy                    │
+│ > ./run --project IT_CAREER_PLANNER                                 │
+│   ├── DESC    ML-powered career path prediction system              │
+│   ├── STACK   XGBoost · Scikit-learn · Feature Engineering         │
+│   └── RESULT  99.75% Accuracy ██████████ [BENCHMARK MET]           │
 ├─────────────────────────────────────────────────────────────────────┤
-│  🏙️  CITYPULSE                                                      │
-│      Urban analytics & data visualisation dashboard                 │
-│      Python · GeoPandas · Real-time Insights                        │
+│ > ./run --project CITYPULSE                                         │
+│   ├── DESC    Urban analytics & data visualisation dashboard        │
+│   ├── STACK   Python · GeoPandas · Plotly                          │
+│   └── RESULT  Real-time urban insights engine                       │
 ├─────────────────────────────────────────────────────────────────────┤
-│  🏥  PREVENTPATH                                                    │
-│      AI-driven preventive health risk prediction                    │
-│      Machine Learning · Health Data · Early Detection               │
+│ > ./run --project PREVENTPATH                                       │
+│   ├── DESC    AI-driven preventive health risk prediction           │
+│   ├── STACK   Machine Learning · Health Data · Python               │
+│   └── RESULT  Early detection pipeline                              │
 ├─────────────────────────────────────────────────────────────────────┤
-│  🔒  NEURAL_BLACKSITE  ············  [ C L A S S I F I E D ]       │
-│  🔒  PROJECT_OMEGA     ············  [ C L A S S I F I E D ]       │
+│ > ./run --project NEURAL_BLACKSITE                                  │
+│   └── ERROR   [ACCESS DENIED] — CLEARANCE LEVEL INSUFFICIENT       │
+├─────────────────────────────────────────────────────────────────────┤
+│ > ./run --project PROJECT_OMEGA                                     │
+│   └── ERROR   [ACCESS DENIED] — CLEARANCE LEVEL INSUFFICIENT       │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-> 🧠 All projects visualised as interactive neurons inside a **3D AI Brain** at [heinhtetphyo.com](https://heinhtetphyo.com)
+---
+
+```bash
+$ cat ~/experience.log
+
+[2024] KBZ Pay — Data & Software Engineering Intern
+       ├── Optimised QR payment APIs → 5,000,000+ active users
+       ├── Reduced API response times via query optimisation
+       └── Stack: Python · SQL · REST APIs · Data Analysis
+
+[2023] City Mart Holding — Data Analytics Intern
+       ├── Built Power BI dashboards → 200+ retail branches
+       ├── Integrated SAP HANA for real-time executive reporting
+       └── Stack: Power BI · SAP HANA · SQL · Excel
+```
 
 ---
 
-## ░░ WORK EXPERIENCE
-
-**KBZ Pay** — Data & Software Engineering Intern
-- Optimised QR payment APIs serving **5M+ users**
-- Analysed transaction pipelines · Reduced API response times
-- `Python` `SQL` `REST APIs`
-
-**City Mart Holding** — Data Analytics Intern
-- Built Power BI dashboards for **200+ retail branches**
-- Integrated SAP HANA data sources for real-time executive reporting
-- `Power BI` `SAP HANA` `SQL`
-
----
-
-## ░░ GITHUB STATS
+```bash
+$ neofetch --github-stats
+```
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=HeinHtet-Phyo&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeinHtet-Phyo&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=HeinHtet-Phyo&show_icons=true&hide_border=true&bg_color=001100&title_color=00ff41&icon_color=00cc33&text_color=00ff41&count_private=true&ring_color=00ff41"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeinHtet-Phyo&layout=compact&hide_border=true&bg_color=001100&title_color=00ff41&text_color=00ff41"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HeinHtet-Phyo&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555&currStreakNum=ffffff&sideNums=ffffff"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HeinHtet-Phyo&hide_border=true&background=001100&stroke=00ff41&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00cc33&dates=006600&currStreakNum=00ff41&sideNums=00ff41"/>
 
 </div>
 
 ---
 
-## ░░ CONNECT
+```bash
+$ ping heinhtetphyo.com
+
+PING heinhtetphyo.com — Neural Galaxy Portfolio
+> 3D AI Brain with interactive project neurons
+> Built with React · Three.js · TypeScript · Vite
+> Deployed on Vercel
+
+Reply from heinhtetphyo.com: STATUS=ONLINE ✓
+```
 
 <div align="center">
 
-```
-heinhtetphyo.com  ·  linkedin.com/in/hein-htet-phyo  ·  heinhtetphyo56@gmail.com
-```
-
-[![Visit Portfolio](https://img.shields.io/badge/▶_VISIT_NEURAL_GALAXY_PORTFOLIO-000000?style=for-the-badge&labelColor=ffffff&color=000000)](https://heinhtetphyo.com)
+[![VISIT PORTFOLIO](https://img.shields.io/badge/▶_BOOT_NEURAL_GALAXY-heinhtetphyo.com-00ff41?style=for-the-badge&labelColor=001100&color=001100)](https://heinhtetphyo.com)
 
 </div>
 
 <br/>
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,111111,000000&height=120&section=footer&animation=fadeIn"/>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,003300,001100&height=120&section=footer&animation=twinkling"/>
