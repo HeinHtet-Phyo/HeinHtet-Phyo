@@ -1,34 +1,30 @@
 <div align="center">
 
-<!-- STAR FIELD HEADER via capsule-render with stars pattern -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:050505,100:000000&height=280&section=header&text=HEIN%20HTET%20PHYO&fontSize=72&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=✦%20%20Data%20Analyst%20%20·%20%20Data%20Scientist%20%20·%20%20AI%20Software%20Engineer%20%20✦&descSize=15&descAlignY=62&descColor=999999&animation=fadeIn&stroke=ffffff&strokeWidth=0"/>
-
-<!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=false&width=650&height=45&lines=✦+welcome+to+my+space+✦;building+at+the+edge+of+intelligence...;First+Class+Honours+·+UWE+Bristol+🎓;open+to+graduate+roles+in+London+🇬🇧" />
+<!-- REAL STAR FIELD BANNER — upload banner.png to your repo root and it renders perfectly -->
+<img src="./banner.png" width="100%" alt="Hein Htet Phyo — Data Analyst · Data Scientist · AI Software Engineer"/>
 
 <br/>
 
-<!-- STAR DOTS ROW 1 -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header&text=·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·&fontSize=10&fontColor=333333&fontAlign=50&fontAlignY=60" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2600&pause=800&color=FFFFFF&background=00000000&center=true&vCenter=true&width=620&height=42&lines=✦+welcome+to+my+space+✦;building+at+the+edge+of+intelligence...;First+Class+Honours+·+UWE+Bristol+🎓;open+to+graduate+roles+in+London+🇬🇧" alt="typing"/>
 
-<br/>
+<br/><br/>
 
 🎓 &nbsp;**BSc Data Science & AI** &nbsp;·&nbsp; 🏆 **First Class Honours** &nbsp;·&nbsp; 🏛️ University of the West of England, Bristol
 <br/>
 📍 **London, UK** &nbsp;&nbsp;｜&nbsp;&nbsp; 🟢 **Actively Seeking Graduate Roles**
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1&section=header" width="100%"/>
-
 <br/><br/>
 
-## 👾 &nbsp;about me
+---
+
+<br/>
+
+## 👾 &nbsp; ABOUT ME
 
 <br/>
 
 I'm a data scientist and AI software engineer who lives at the intersection of **intelligence**, **data**, and **craft**.
-<br/>I turn complex messy data into clean purposeful systems — ML models, AI pipelines, supply chain optimisers,
+<br/>I turn complex, messy data into clean purposeful systems — ML models, AI pipelines, supply chain optimisers,
 <br/>and immersive 3D web experiences. I write code meant to be read. I build systems meant to last.
 
 <br/><br/>
@@ -37,7 +33,7 @@ I'm a data scientist and AI software engineer who lives at the intersection of *
 
 <br/>
 
-## 🛰️ &nbsp;what i'm building & where i'm heading
+## 🛰️ &nbsp; WHAT I'M BUILDING & WHERE I'M HEADING
 
 <br/>
 
@@ -59,7 +55,7 @@ I'm a data scientist and AI software engineer who lives at the intersection of *
 
 <br/>
 
-## 🛠️ &nbsp;skills
+## 🛠️ &nbsp; SKILLS
 
 <br/>
 
@@ -114,7 +110,7 @@ I'm a data scientist and AI software engineer who lives at the intersection of *
 
 <br/>
 
-## 🔗 &nbsp;find me across the universe
+## 🔗 &nbsp; FIND ME ACROSS THE UNIVERSE
 
 <br/>
 
@@ -128,6 +124,6 @@ I'm a data scientist and AI software engineer who lives at the intersection of *
 
 <br/><br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=120&section=footer&text=·%20%20·%20%20✦%20%20·%20%20·%20%20somewhere%20in%20the%20universe%20·%20%20·%20%20✦%20%20·%20%20·&fontSize=13&fontColor=333333&fontAlignY=65&animation=fadeIn"/>
+<img src="./footer.png" width="100%" alt="somewhere in the universe"/>
 
 </div>
