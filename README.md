@@ -20,10 +20,11 @@ Whether it's training ML models, crafting data analysis pipelines, or building f
 
 | | Focus | Stack |
 |---|---|---|
-| 🤖 | ML models that make real decisions | `XGBoost` `LightGBM` `SARIMA` |
-| 📊 | Data pipelines & analytics systems | `Power BI` `Plotly` `GeoPandas` `SQL` |
-| 🌐 | AI-powered 3D web experiences | `Three.js` `React Three Fiber` `Next.js` |
+| 🤖 | ML models that make real decisions | `XGBoost` `LightGBM` `SARIMA` `Scikit-Learn` |
+| 📊 | Data pipelines & analytics dashboards | `Power BI` `Plotly` `GeoPandas` `SQL` `Tableau` |
+| 🔍 | End-to-end data analysis & insight | `Pandas` `NumPy` `Statistical Analysis` `EDA` |
 | ⚙️ | Real-world system optimisation | `Gurobi ILP` `supply chain` `forecasting` |
+| 🌐 | AI-powered web applications | `Next.js` `React` `Three.js` `TypeScript` |
 | 🧠 | The frontier | `LLMs` `AI agents` `computer vision` |
 
 > 🎯 **Direction** → Owning the full pipeline from raw data to deployed model to real-world impact. Finance · logistics · urban intelligence · unsolved problems.
@@ -69,14 +70,12 @@ Whether it's training ML models, crafting data analysis pipelines, or building f
 ![SAP HANA](https://img.shields.io/badge/SAP_HANA-000000?style=for-the-badge&logo=sap&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-**FRONTEND & 3D**
+**FRONTEND & WEB**
 
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
@@ -90,7 +89,7 @@ Whether it's training ML models, crafting data analysis pipelines, or building f
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=HeinHtet-Phyo&style=for-the-badge&color=000000&label=✦+PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=HeinHtet-Phyo&style=for-the-badge&color=404040&label=PROFILE+VIEWS)
 
 `✦ · · · somewhere in the universe · · · ✦`
 
