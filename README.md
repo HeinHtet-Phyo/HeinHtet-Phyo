@@ -1,12 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=200&section=header&text=HEIN%20HTET%20PHYO&fontSize=60&fontColor=ffffff&fontAlignY=55&desc=Data%20Analyst%20%20✦%20%20Data%20Scientist%20%20✦%20%20AI%20Software%20Engineer&descAlignY=75&descSize=16&descColor=aaaaaa&animation=fadeIn" width="100%"/>
+<!-- STAR FIELD HEADER via capsule-render with stars pattern -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:050505,100:000000&height=280&section=header&text=HEIN%20HTET%20PHYO&fontSize=72&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=✦%20%20Data%20Analyst%20%20·%20%20Data%20Scientist%20%20·%20%20AI%20Software%20Engineer%20%20✦&descSize=15&descAlignY=62&descColor=999999&animation=fadeIn&stroke=ffffff&strokeWidth=0"/>
+
+<!-- ANIMATED TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=false&width=650&height=45&lines=✦+welcome+to+my+space+✦;building+at+the+edge+of+intelligence...;First+Class+Honours+·+UWE+Bristol+🎓;open+to+graduate+roles+in+London+🇬🇧" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=✦+Welcome+to+my+space+✦;Data+Analyst+%7C+Data+Scientist+%7C+AI+Engineer;Building+at+the+edge+of+intelligence...;First+Class+Honours+%7C+UWE+Bristol;Based+in+London+%2C+UK+🇬🇧" alt="Typing SVG"/>
+<!-- STAR DOTS ROW 1 -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header&text=·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·%20%20·&fontSize=10&fontColor=333333&fontAlign=50&fontAlignY=60" width="100%"/>
 
-<br/><br/>
+<br/>
 
 🎓 &nbsp;**BSc Data Science & AI** &nbsp;·&nbsp; 🏆 **First Class Honours** &nbsp;·&nbsp; 🏛️ University of the West of England, Bristol
 <br/>
@@ -14,16 +19,16 @@
 
 <br/>
 
----
- 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1&section=header" width="100%"/>
+
+<br/><br/>
 
 ## 👾 &nbsp;about me
 
 <br/>
 
 I'm a data scientist and AI software engineer who lives at the intersection of **intelligence**, **data**, and **craft**.
-<br/>I turn complex, messy data into clean purposeful systems — ML models, AI pipelines, supply chain optimisers,
+<br/>I turn complex messy data into clean purposeful systems — ML models, AI pipelines, supply chain optimisers,
 <br/>and immersive 3D web experiences. I write code meant to be read. I build systems meant to last.
 
 <br/><br/>
@@ -113,24 +118,16 @@ I'm a data scientist and AI software engineer who lives at the intersection of *
 
 <br/>
 
-<a href="https://heinhtetphyo.com">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-heinhtetphyo.com-white?style=for-the-badge&labelColor=000000&color=000000" />
-</a>
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-heinhtetphyo.com-ffffff?style=for-the-badge&labelColor=000000&color=111111)](https://heinhtetphyo.com)
 &nbsp;
-<a href="https://linkedin.com/in/hein-htet-phyo">
-  <img src="https://img.shields.io/badge/💼_LINKEDIN-connect-white?style=for-the-badge&labelColor=000000&color=000000" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-connect-ffffff?style=for-the-badge&labelColor=000000&color=111111)](https://linkedin.com/in/hein-htet-phyo)
 &nbsp;
-<a href="mailto:heinhtetphyo56@gmail.com">
-  <img src="https://img.shields.io/badge/📧_EMAIL-contact-white?style=for-the-badge&labelColor=000000&color=000000" />
-</a>
+[![Email](https://img.shields.io/badge/📧_EMAIL-contact-ffffff?style=for-the-badge&labelColor=000000&color=111111)](mailto:heinhtetphyo56@gmail.com)
 &nbsp;
-<a href="https://github.com/HeinHtet-Phyo">
-  <img src="https://img.shields.io/badge/🐙_GITHUB-follow-white?style=for-the-badge&labelColor=000000&color=000000" />
-</a>
+[![GitHub](https://img.shields.io/badge/🐙_GITHUB-follow-ffffff?style=for-the-badge&labelColor=000000&color=111111)](https://github.com/HeinHtet-Phyo)
 
 <br/><br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=120&section=footer&text=somewhere%20in%20the%20universe&fontSize=16&fontColor=444444&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=120&section=footer&text=·%20%20·%20%20✦%20%20·%20%20·%20%20somewhere%20in%20the%20universe%20·%20%20·%20%20✦%20%20·%20%20·&fontSize=13&fontColor=333333&fontAlignY=65&animation=fadeIn"/>
 
 </div>
